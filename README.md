@@ -6,11 +6,12 @@ I built this app because I wanted a tracking tool that stayed out of my way, som
 
 ## Features
 
-- **Blazing Fast Entry**: Log your sets with simple shorthand like `135x5x3` or `20x10`.
+- **Blazing Fast Entry**: Log your sets with simple shorthand like `135x5x3` or `20x10`, `x10x3` (for weightless entries), or `1h10m30s` (for timed entries).
 - **Automatic PR Tracking**: The app identifies your Personal Records (PRs) as you log.
 - **Strength Analytics**: View your exercise history and estimated One Rep Max (1RM) progress.
 - **Privacy First**: No tracking, no ads, and no cloud syncing. Your data never leaves your device.
 - **Modern Native Feel**: Built with Kotlin and Jetpack Compose for a fast, responsive Android experience.
+- **Metric units**: Uses metric units.
 
 ## Roadmap
 - **Initial Release**
