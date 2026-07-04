@@ -6,11 +6,16 @@ I built this app because I wanted a tracking tool that stayed out of my way, som
 
 ## Features
 
-- **Blazing Fast Entry**: Log your sets with simple shorthand like `135x5x3` or `20x10`, `x10x3` (for body weight entries), or `1h20m` (for timed entries).
+- **Blazing Fast Entry**: Log your sets with simple shorthand like `135x5x3` or `20x10`.
 - **Automatic PR Tracking**: The app identifies your Personal Records (PRs) as you log.
 - **Strength Analytics**: View your exercise history and estimated One Rep Max (1RM) progress.
 - **Privacy First**: No tracking, no ads, and no cloud syncing. Your data never leaves your device.
 - **Modern Native Feel**: Built with Kotlin and Jetpack Compose for a fast, responsive Android experience.
+
+### Changes from https://github.com/GymLoga/GymLoga-Android
+- Added shorthand for:
+  - body weight entries x(reps)x(sets): `x10x3`
+  - timed entries: `10m` or `1h20m`
 - **Metric units**: Uses metric units.
 
 ## Roadmap
