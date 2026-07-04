@@ -13,10 +13,12 @@ I built this app because I wanted a tracking tool that stayed out of my way, som
 - **Modern Native Feel**: Built with Kotlin and Jetpack Compose for a fast, responsive Android experience.
 
 ### Changes from https://github.com/GymLoga/GymLoga-Android
-- Added shorthand for:
+- **Added shorthand for**:
   - body weight entries x(reps)x(sets): `x10x3`
   - timed entries: `10m` or `1h20m`
-- **Metric units**: Uses metric units.
+- **Metric units**: Uses metric units instead of imperial.
+
+**Disclaimer:** I know nothing of Kotlin. All changes were made with Claude. 
 
 ## Roadmap
 - **Initial Release**
